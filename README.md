@@ -37,3 +37,10 @@ FinancePilot es una aplicación multiplataforma que permite a los usuarios:
 - **Room**: Biblioteca para la gestión de bases de datos locales.
 - **Kotlin Multiplatform**: Permite la reutilización de código entre plataformas.
 
+Para más detalles sobre el proyecto, incluyendo planificación, tareas y documentación adicional, puedes acceder a nuestro espacio de Notion:
+
+Acceder a la Documentación en Notion
+
+[Enlace a notion](https://www.notion.so/124c8cf6492d8040a53de9eb50ccbf7e?v=124c8cf6492d8156a9a2000cf9870935&pvs=4)
+
+
