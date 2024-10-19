@@ -1,4 +1,9 @@
 # Proyecto_Final_DSM
+## Integrantes Desarrollo de Software para Móviles DSM441 G02T
+- oswaldo Henriquez HM231279
+- Kevin Ramirez RM230143
+- Diego Canjura CE 221950
+- Jose Alvarez AM252553
 # FinancePilot
 
 **FinancePilot** es una aplicación móvil diseñada para ayudar a los usuarios a gestionar y controlar sus gastos e ingresos de manera efectiva. Su objetivo principal es proporcionar una interfaz intuitiva que permita a los usuarios realizar un seguimiento de sus finanzas personales, categorizando y analizando sus gastos.
